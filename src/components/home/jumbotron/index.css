@@ -7,6 +7,8 @@
 
 .jumbotron-text {
     padding:10px;
+    background-color: white;
+    opacity: 0.8;
 }
 .jumbotron-header {
     margin-top: 60px;
